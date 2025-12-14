@@ -1,52 +1,28 @@
-<h1 align="center">Hi 👋, I'm Danilo Đaković</h1>
-<h3 align="center">Web Developer & Frontend Enthusiast</h3>
+<h1 align="center">👨‍💻 Danilo Đaković</h1>
+<h3 align="center">Web Developer | JavaScript | HTML | CSS</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=djakovic&label=Profile%20Views&color=grey&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+the+web...;Dark+UI+%7C+Clean+Code;Frontend+Web+Developer;JavaScript+Addict" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=djakovic&label=Profile%20Views&color=00ff9c&style=flat" />
 </p>
 
 ---
 
-## 🌐 Web Development Stack
+## 🧪 Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/jQuery-000000?style=flat&logo=jquery" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/jQuery-0d1117?style=flat&logo=jquery&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat&logo=bootstrap&logoColor=00ff9c" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker" />
-</p>
-
----
-
-## 🚀 About Me
-
-* 💻 Focused on **modern web development**
-* 🎨 Clean UI / responsive design
-* ⚙️ Frontend + basic backend integration
-* 📦 Personal & open-source projects
-
----
-
-## 📫 Contact
-
-* 🌐 GitHub: **@djakovic**
-
----
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=node.js&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=00ff9c" />
+<
